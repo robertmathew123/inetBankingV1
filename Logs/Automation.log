@@ -1,0 +1,10 @@
+[INFO ] 2020-07-16 11:27:53.420 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-16 11:27:54.611 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-16 11:27:54.952 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-16 11:27:58.260 [main] TC_Login_001 - Login Test Passed
+[INFO ] 2020-07-16 11:28:10.803 [main] TC_AddCustomerTest_003 - URL is opened
+[INFO ] 2020-07-16 11:28:11.110 [main] TC_AddCustomerTest_003 - user name provided
+[INFO ] 2020-07-16 11:28:11.353 [main] TC_AddCustomerTest_003 - password provided
+[INFO ] 2020-07-16 11:28:16.736 [main] TC_AddCustomerTest_003 - providing customer details....
+[INFO ] 2020-07-16 11:28:27.653 [main] TC_AddCustomerTest_003 - validation started....
+[INFO ] 2020-07-16 11:28:27.673 [main] TC_AddCustomerTest_003 - test case failed....

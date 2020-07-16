@@ -1,0 +1,160 @@
+[INFO ] 2020-07-15 10:03:40.726 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 10:04:18.178 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 10:04:18.398 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 10:04:18.595 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 10:04:36.254 [main] TC_Login_001 - Login Test Passed
+[INFO ] 2020-07-15 10:29:31.712 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 10:29:31.933 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 10:29:32.120 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 12:57:13.842 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 12:57:14.129 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 12:57:14.334 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 12:57:32.331 [main] TC_Login_001 - Login Test Passed
+[INFO ] 2020-07-15 13:36:59.779 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 13:37:00.033 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 13:37:00.219 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 13:40:52.686 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 13:43:41.766 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 13:43:42.021 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 13:43:42.155 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 13:43:46.880 [main] TC_Login_001 - Login Test Passed
+[INFO ] 2020-07-15 14:08:26.735 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 14:08:26.974 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 14:08:27.154 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 14:17:26.816 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 14:18:36.793 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 14:18:37.094 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 14:18:37.418 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 14:20:23.674 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 14:20:23.921 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 14:20:24.115 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 14:20:26.483 [main] TC_Login_001 - Login Test Passed
+[INFO ] 2020-07-15 19:05:58.000 [main] TC_LoginDDT_002 - URL is opened
+[INFO ] 2020-07-15 19:06:03.483 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:06:03.701 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:06:06.195 [main] TC_LoginDDT_002 - Login passed
+[INFO ] 2020-07-15 19:06:10.766 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:06:10.919 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:06:13.792 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:06:13.941 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:06:16.867 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:06:17.075 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:06:18.595 [main] TC_LoginDDT_002 - Login passed
+[INFO ] 2020-07-15 19:06:21.150 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:06:21.294 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:11:27.318 [main] TC_LoginDDT_002 - URL is opened
+[INFO ] 2020-07-15 19:11:29.224 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:11:29.437 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:11:31.816 [main] TC_LoginDDT_002 - Login passed
+[INFO ] 2020-07-15 19:11:34.839 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:11:34.973 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:11:39.100 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:11:39.227 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:11:42.605 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:11:42.771 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:11:44.717 [main] TC_LoginDDT_002 - Login passed
+[INFO ] 2020-07-15 19:11:49.349 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:11:49.489 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:37:18.205 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 19:37:18.433 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 19:37:18.609 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 19:37:22.742 [main] TC_Login_001 - Login Test Passed
+[INFO ] 2020-07-15 19:37:33.205 [main] TC_LoginDDT_002 - URL is opened
+[INFO ] 2020-07-15 19:37:35.011 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:37:35.234 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:37:37.303 [main] TC_LoginDDT_002 - Login passed
+[INFO ] 2020-07-15 19:37:40.887 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:37:41.022 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:37:43.892 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:37:44.013 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:37:46.986 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:37:47.111 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:37:48.719 [main] TC_LoginDDT_002 - Login passed
+[INFO ] 2020-07-15 19:37:52.248 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:37:52.370 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:39:07.287 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 19:39:07.559 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 19:39:07.774 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 19:39:19.312 [main] TC_LoginDDT_002 - URL is opened
+[INFO ] 2020-07-15 19:39:20.843 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:39:21.018 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:39:22.988 [main] TC_LoginDDT_002 - Login passed
+[INFO ] 2020-07-15 19:39:26.699 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:39:26.831 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:39:29.612 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:39:29.763 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:39:32.589 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:39:32.715 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 19:39:34.194 [main] TC_LoginDDT_002 - Login passed
+[INFO ] 2020-07-15 19:39:38.365 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 19:39:38.487 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 20:42:49.641 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 20:42:49.930 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 20:42:50.127 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 20:42:52.657 [main] TC_Login_001 - Login Test Passed
+[INFO ] 2020-07-15 20:43:03.533 [main] TC_LoginDDT_002 - URL is opened
+[INFO ] 2020-07-15 20:43:05.544 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 20:43:05.782 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 20:43:08.218 [main] TC_LoginDDT_002 - Login passed
+[INFO ] 2020-07-15 20:43:12.197 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 20:43:12.361 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 20:43:15.086 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 20:43:15.218 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 20:43:17.562 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 20:43:17.692 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 20:43:19.152 [main] TC_LoginDDT_002 - Login passed
+[INFO ] 2020-07-15 20:43:22.368 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 20:43:22.498 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 20:43:37.314 [main] TC_AddCustomerTest_003 - URL is opened
+[INFO ] 2020-07-15 20:43:37.550 [main] TC_AddCustomerTest_003 - user name provided
+[INFO ] 2020-07-15 20:43:37.739 [main] TC_AddCustomerTest_003 - password provided
+[INFO ] 2020-07-15 20:43:43.766 [main] TC_AddCustomerTest_003 - providing customer details....
+[INFO ] 2020-07-15 20:43:53.531 [main] TC_AddCustomerTest_003 - validation started....
+[INFO ] 2020-07-15 20:47:14.010 [main] TC_LoginDDT_002 - URL is opened
+[INFO ] 2020-07-15 20:47:15.949 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 20:47:16.156 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 20:47:18.718 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 20:47:18.855 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 20:47:21.846 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-07-15 20:47:21.972 [main] TC_LoginDDT_002 - password provided
+[INFO ] 2020-07-15 20:47:35.203 [main] TC_AddCustomerTest_003 - URL is opened
+[INFO ] 2020-07-15 20:47:35.421 [main] TC_AddCustomerTest_003 - user name provided
+[INFO ] 2020-07-15 20:47:35.607 [main] TC_AddCustomerTest_003 - password provided
+[INFO ] 2020-07-15 20:48:07.241 [main] TC_AddCustomerTest_003 - providing customer details....
+[INFO ] 2020-07-15 20:48:16.806 [main] TC_AddCustomerTest_003 - validation started....
+[INFO ] 2020-07-15 20:51:37.313 [main] TC_AddCustomerTest_003 - URL is opened
+[INFO ] 2020-07-15 20:51:37.639 [main] TC_AddCustomerTest_003 - user name provided
+[INFO ] 2020-07-15 20:51:37.858 [main] TC_AddCustomerTest_003 - password provided
+[INFO ] 2020-07-15 20:52:11.455 [main] TC_AddCustomerTest_003 - providing customer details....
+[INFO ] 2020-07-15 20:52:21.014 [main] TC_AddCustomerTest_003 - validation started....
+[INFO ] 2020-07-15 20:52:21.065 [main] TC_AddCustomerTest_003 - test case failed....
+[INFO ] 2020-07-15 21:21:48.785 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 21:21:49.643 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 21:21:49.857 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 21:21:52.650 [main] TC_Login_001 - Login Test Passed
+[INFO ] 2020-07-15 21:22:03.205 [main] TC_AddCustomerTest_003 - URL is opened
+[INFO ] 2020-07-15 21:22:03.407 [main] TC_AddCustomerTest_003 - user name provided
+[INFO ] 2020-07-15 21:22:03.605 [main] TC_AddCustomerTest_003 - password provided
+[INFO ] 2020-07-15 21:22:11.869 [main] TC_AddCustomerTest_003 - providing customer details....
+[INFO ] 2020-07-15 21:22:21.610 [main] TC_AddCustomerTest_003 - validation started....
+[INFO ] 2020-07-15 21:22:21.647 [main] TC_AddCustomerTest_003 - test case failed....
+[INFO ] 2020-07-15 21:34:45.488 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 21:34:46.222 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 21:34:46.433 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 21:34:50.835 [main] TC_Login_001 - Login Test Passed
+[INFO ] 2020-07-15 21:35:20.476 [main] TC_AddCustomerTest_003 - URL is opened
+[INFO ] 2020-07-15 21:35:20.747 [main] TC_AddCustomerTest_003 - user name provided
+[INFO ] 2020-07-15 21:35:21.022 [main] TC_AddCustomerTest_003 - password provided
+[INFO ] 2020-07-15 21:35:57.137 [main] TC_AddCustomerTest_003 - providing customer details....
+[INFO ] 2020-07-15 21:36:07.040 [main] TC_AddCustomerTest_003 - validation started....
+[INFO ] 2020-07-15 21:36:07.079 [main] TC_AddCustomerTest_003 - test case failed....
+[INFO ] 2020-07-15 22:16:07.614 [main] TC_Login_001 - URL is opened
+[INFO ] 2020-07-15 22:16:08.096 [main] TC_Login_001 - Entered the UserName
+[INFO ] 2020-07-15 22:16:08.353 [main] TC_Login_001 - Entered the Password
+[INFO ] 2020-07-15 22:16:13.407 [main] TC_Login_001 - Login Test Passed
+[INFO ] 2020-07-15 22:16:36.892 [main] TC_AddCustomerTest_003 - URL is opened
+[INFO ] 2020-07-15 22:16:37.157 [main] TC_AddCustomerTest_003 - user name provided
+[INFO ] 2020-07-15 22:16:37.443 [main] TC_AddCustomerTest_003 - password provided
+[INFO ] 2020-07-15 22:16:45.147 [main] TC_AddCustomerTest_003 - providing customer details....
+[INFO ] 2020-07-15 22:16:55.191 [main] TC_AddCustomerTest_003 - validation started....
+[INFO ] 2020-07-15 22:16:55.232 [main] TC_AddCustomerTest_003 - test case failed....
